@@ -1,0 +1,43 @@
+{
+  "videos": {
+    "v101": {
+      "thumbnail": "https://crmgrow.com/api/video/thumbnail/05f5c740-502b-11e9-a877-8bd249b38fba.png",
+      "video": "https://teamgrow.s3.us-east-2.amazonaws.com/video119/7/explained+in+7+Minutes.mp4",
+      "type": "video/mp4",
+      "title": "eXp explanation video in 7 mins",
+      "description": "Our freinds at fastly are nice enough to provide hosting for all the neccessary filesfor video.js on thier content delivery network. Using these hosted files is probably the easiest way to get started using video.js"
+    },
+    "v102": {
+      "thumbnail": "",
+      "video": "",
+      "type": "video/mp4",
+      "title": "",
+      "description": ""
+    },
+    "v103": {
+      "thumbnail": "",
+      "video": "",
+      "type": "video/mp4",
+      "title": "",
+      "description": ""
+    }
+  },
+  "senders":{
+    "s101": {
+      "name": "Garrett Steve",
+      "phone": "Phone1",
+      "email": "garrett@gmail.com"
+    },
+    "s102": {
+      "name": "James Dev",
+      "phone": "4512125588",
+      "email": "james@gmail.com"
+    },
+    "s103": {
+      "name": "Top Dev",
+      "phone": "559979988",
+      "email": "webtop@gmail.com"
+    }
+  }
+}
+
